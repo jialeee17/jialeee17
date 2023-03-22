@@ -1,13 +1,13 @@
 ### :octocat: Trophies 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jialeee17)](https://github.com/jialeee17/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jialeee17)]()
 
 
 
 ### :octocat: GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jialeee17&show_icons=true&theme=swift)
+![JiaLe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jialeee17&show_icons=true&theme=swift)
 
 ### :octocat: Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jialeee17&layout=compact)](https://github.com/jialeee17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jialeee17&layout=compact)]()
 
 
 
