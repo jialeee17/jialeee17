@@ -1,9 +1,24 @@
-### Hi there 👋
+### :octocat: Trophies 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jialeee17)](https://github.com/jialeee17/github-profile-trophy)
+
+
+
+### :octocat: GitHub Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jialeee17&show_icons=true&theme=swift)
+
+### :octocat: Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jialeee17&layout=compact)](https://github.com/jialeee17/github-readme-stats)
+
+
 
 <!--
 **jialeee17/jialeee17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### :octocat: I’m currently learning ...
+### :octocat: How to reach me: ...
+### :octocat: I’m looking to collaborate on ...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
