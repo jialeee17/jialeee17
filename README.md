@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm JiaLe</h1>
-<h3 align="center">A passionate Full-stack Web Developer from Malaysia</h3>
+<h3 align="center">A passionate full-stack web developer from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jialeee17&label=Profile%20views&color=0e75b6&style=flat" alt="jialeee17" /> </p>
 
-- 🌱 I’m currently learning **Nuxt.js, TypeScript, Amazon Web Services, Agile Methodology**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jialeee17" alt="jialeee17" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/jiale456](https://www.frontendmentor.io/profile/jiale456)
+- 🌱 I’m currently learning **Nuxt.js, TypeScript, Amazon Web Services, Agile Methodology, and Web Design.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/jialeee17?tab=repositories](https://github.com/jialeee17?tab=repositories)
+
+- 💬 Ask me about **Vue.js and Laravel.**
 
 - 📫 How to reach me **jialeee0511@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jialeee17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jialeee17/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jialeee17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jialeee17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,31 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jialeee17&show_icons=true&locale=en" alt="jialeee17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jialeee17&" alt="jialeee17" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jialeee17" alt="jialeee17" /></a> </p>
-
-<!--
-**jialeee17/jialeee17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-### :octocat: Trophies 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jialeee17)]()
-
-
-
-### :octocat: GitHub Stats 
-![JiaLe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jialeee17&show_icons=true&theme=swift)
-
-### :octocat: Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jialeee17&layout=compact)]()
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
