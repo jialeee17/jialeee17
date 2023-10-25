@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jialeee17&label=Profile%20views&color=0e75b6&style=flat" alt="jialeee17" /> </p>
 
-- 🌱 I’m currently learning **Nuxt.js, TypeScript, Amazon Web Services, Agile Methodology, and Web Design.**
+- 🌱 I’m currently learning **Node.js, TypeScript, Amazon Web Services, and Web Design.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jialeee17?tab=repositories](https://github.com/jialeee17?tab=repositories)
 
