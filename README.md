@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jialeee17&label=Profile%20views&color=0e75b6&style=flat" alt="jialeee17" /> </p>
 
-- 🌱 I’m currently learning **Node.js, TypeScript, and Amazon Web Services.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jialeee17?tab=repositories](https://github.com/jialeee17?tab=repositories)
-
-- 💬 Ask me about **Vue.js and Laravel.**
-
 - 📫 How to reach me **jialeee0511@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
